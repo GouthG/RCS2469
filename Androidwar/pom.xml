@@ -15,6 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <builds>
   <build>
   <plugins>
  <plugin>
@@ -41,4 +42,5 @@
   <build>
     <finalName>Androidwar</finalName>
   </build>
+  </builds>
 </project>
